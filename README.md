@@ -32,15 +32,6 @@
 👉 [my-frontend-portfolio-sage.vercel.app](https://my-frontend-portfolio-sage.vercel.app/)
 
 ---
-
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-samir-dev&theme=gruvbox&margin-w=15&no-frame=true" />
-</p>
-
----
-
 ## 📊 Stats & Insights
 
 <p align="center">
