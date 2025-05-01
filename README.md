@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello, I'm Mohamed Samir</h1>
 
 <p align="center">
-  <strong>Frontend Developer | Creative Coder | Lifelong Learner</strong> <br>
-  I build modern, interactive, and responsive web interfaces.<br>
-  Currently exploring React & API integration to create full-featured web apps.
+  <strong>Frontend Developer | Creative Coder | Lifelong Learner</strong><br>
+  I specialize in building modern, responsive, and user-friendly web interfaces.<br>
+  Currently focused on mastering <strong>React</strong> and integrating <strong>REST APIs</strong>.
 </p>
 
 <p align="center">
@@ -21,8 +21,16 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white" />
 </div>
+
+---
+
+## 🌐 Portfolio
+
+🎯 Check out my live portfolio:  
+👉 [my-frontend-portfolio-sage.vercel.app](https://my-frontend-portfolio-sage.vercel.app/)
 
 ---
 
@@ -42,7 +50,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://github.com/mohamed-samir-dev" target="_blank">
